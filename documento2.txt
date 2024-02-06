@@ -1,1 +1,2 @@
 Contenido del documento2
+Cambios en master
