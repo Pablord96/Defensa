@@ -2,3 +2,4 @@ Contenido del documento2
 Cambios en master
 Nuevos cambios en documento2
 Cambios en mirama en documento2
+Creacion de conflicto en rama
