@@ -1,2 +1,3 @@
 Contenido del documento1
 Cambios en mirama
+Conflicto 1
