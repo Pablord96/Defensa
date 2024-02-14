@@ -6,3 +6,5 @@ Cambios en mirama en documento2
 Creacion de conflicto
 Creacion de conflicto en rama
 Hola
+Adios
+
